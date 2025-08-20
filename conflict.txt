@@ -1,0 +1,6 @@
+linea original
+
+ HEAD
+segundo cambio desde main
+cambios desde la rama dev
+
